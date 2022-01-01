@@ -49,6 +49,7 @@
 }
 .header__link {
   text-decoration: none;
+  color: #2f80ed;
 }
 .header__main-illustration {
   position: absolute;
@@ -194,6 +195,7 @@ h6 {
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
+  color: #2f80ed;
 }
 .feynman__subtitle {
   display: flex;
